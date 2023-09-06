@@ -2,8 +2,14 @@ Hi, I'm Praveen.
 I'm 25 years old!
 I'm from mirigama.
 <<<<<<< HEAD
+<<<<<<< HEAD
 My favourite person in father.
 =======
 I'm BCS Student.
 I like bananas.
 >>>>>>> feature2
+=======
+I'm BCS Student.
+I like bananas.
+
+>>>>>>> e67a4f0b2372248d45915d1c6184aace60d57ccc
